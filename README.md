@@ -1,5 +1,5 @@
 # xf-remainingposts
-"X More Posts..." addon for Xenforo
+"X More Posts..." addon for Xenforo 2.x
 
 This enables a simple, small, clickable message at the bottom of thread views where there are more posts on later pages. It shows a number of posts remaining: "8 More Posts..." and clicking it takes one to the next page.
 
