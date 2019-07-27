@@ -1,0 +1,27 @@
+{
+    "legacy_addon_id": "",
+    "title": "RemainingPosts",
+    "description": "Adds a 'x more posts' link to the bottom right of thread views",
+    "version_id": 10000002,
+    "version_string": "1.0.0",
+    "dev": "Jay Chapman and Nathan Miller",
+    "dev_url": "",
+    "faq_url": "",
+    "support_url": "",
+    "extra_urls": {"Daily Drinking Thread": "http://www.dailydrinkingthread.com"},
+    "require": {
+        "XF": [
+            2000010,
+            "XenForo 2.0.0+"
+        ],
+        "php": [
+            "5.4.0",
+            "PHP 5.4.0+"
+        ],
+        "php-ext/json": [
+            "*",
+            "JSON extension"
+        ]
+    },
+    "icon": ""
+}

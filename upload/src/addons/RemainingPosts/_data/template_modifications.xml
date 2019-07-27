@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<template_modifications>
+  <modification type="public" template="core_block.less" modification_key="postsremaining1" description="Style Posts Remaining Display" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[.block-outer
+{]]></find>
+    <replace><![CDATA[.block-outer
+{
+        .postsRemaining {
+                font-size: @xf-fontSizeSmall;
+                color: @xf-textColorMuted;
+                text-align:right;
+
+	            &:hover
+	            {
+		                color: @xf-textColorDimmed;
+                }
+        }]]></replace>
+  </modification>
+  <modification type="public" template="thread_view" modification_key="postsremaining001" description="Add Posts Remaining Display To Multi-Page Threads" execution_order="10" enabled="1" action="str_replace">
+    <find><![CDATA[				<xf:showignored]]></find>
+    <replace><![CDATA[				<xf:callback class="RemainingPosts\RemainingPosts" method="getRemainingPosts" params="[{$page},{$perPage},{{ $thread.reply_count + 1 }},{{$xf.uri}}]"></xf:callback>
+				<xf:showignored]]></replace>
+  </modification>
+</template_modifications>
