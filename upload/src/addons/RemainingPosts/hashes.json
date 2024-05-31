@@ -1,6 +1,7 @@
 {
-    "src/addons/RemainingPosts/addon.json": "e5dcf9e9116aeb3cc725e96aacf9e01f3ce8935a3e278d5970260cf04815140f",
-    "src/addons/RemainingPosts/RemainingPosts.php": "205304651018b728ee934a2a810242675c615e83b4f5c34ed154420a71d9f7e7",
+    "src/addons/RemainingPosts/addon.json": "bc9d06070dcad16213120b428ec7596c618947f394a8a8ff49aa1eca07cf1151",
+    "src/addons/RemainingPosts/RemainingPosts.php": "e811b6563203c637b0ea4edca319ef54d68bd353705352db1482e9551fe60c3f",
+    "src/addons/RemainingPosts/_data/activity_summary_definitions.xml": "99d8c2563a31320d66f958fc8bda78613545f5f7959bb3cf5318805e3a3c39d2",
     "src/addons/RemainingPosts/_data/admin_navigation.xml": "064ec797484ac00d5ee37367b50b06846d11f480d00550997712707f8fdac8c0",
     "src/addons/RemainingPosts/_data/admin_permission.xml": "ec6fb97cebf0bceb24f1ed1d5778c1db54eeb7535fbb3e31d824840e7aa9ff87",
     "src/addons/RemainingPosts/_data/advertising_positions.xml": "d2f7cbe844bb1df3cf878d22ff6306249245c8ff6b0b87b9b729744bec538261",
@@ -24,7 +25,7 @@
     "src/addons/RemainingPosts/_data/style_properties.xml": "8b8690a8512f01f219dd2da76e3d0c5f62afc1f317b87794a7331c859c36a7a8",
     "src/addons/RemainingPosts/_data/style_property_groups.xml": "68e1879cb3846c42d978487aa8d5145ff3335fc39e58016878824d5cf3fd684c",
     "src/addons/RemainingPosts/_data/templates.xml": "95d4b078b90e74e773cef6695ef94c742e74b8d62e6798738f11f0215a58faee",
-    "src/addons/RemainingPosts/_data/template_modifications.xml": "6a35df59cd8ce4d0c2ed608f3adfcdb5ef5d7c5dc52ed7c7aae9e3097b9a7fdd",
+    "src/addons/RemainingPosts/_data/template_modifications.xml": "3b203d777fc8b1c516fc6be48c26a4fa775d125e662d3f9dbb49c62f89c39aaf",
     "src/addons/RemainingPosts/_data/widget_definitions.xml": "37e46965256430f24004c2e7f08ba08f9b0d1cbcc4d70e84b3f4e3ffb713e64b",
     "src/addons/RemainingPosts/_data/widget_positions.xml": "a29cee66134f6bc5d75ed9df1eef21096c24401915c5b5c774389c3d7bb2d5b3"
 }
